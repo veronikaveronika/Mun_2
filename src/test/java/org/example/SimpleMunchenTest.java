@@ -12,5 +12,6 @@ public class SimpleMunchenTest {
         driver.manage().window().maximize();
         driver.get("https://www.muenchen.de");
         driver.quit();
+        //comment
     }
 }
