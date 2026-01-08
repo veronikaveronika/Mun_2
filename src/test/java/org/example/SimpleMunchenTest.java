@@ -11,7 +11,7 @@ public class SimpleMunchenTest {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.muenchen.de");
-        // comment added in code
+
         driver.quit();
         //comment
         //new comment1111
