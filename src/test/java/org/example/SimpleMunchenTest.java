@@ -13,12 +13,6 @@ public class SimpleMunchenTest {
         driver.get("https://www.muenchen.de");
         // comment added in code
         driver.quit();
-        //comment
-        //new comment1111
-        // i am in master
 
-        //some changes
-        //11 added
-        //11 new another
     }
 }
